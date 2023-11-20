@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET-Collaborative-Knowledge", "ASP.NET-Collaborative-Knowledge\ASP.NET-Collaborative-Knowledge.csproj", "{6944B651-89A5-49A0-AB88-739CA5EE48EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6944B651-89A5-49A0-AB88-739CA5EE48EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6944B651-89A5-49A0-AB88-739CA5EE48EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6944B651-89A5-49A0-AB88-739CA5EE48EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6944B651-89A5-49A0-AB88-739CA5EE48EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A939CEEF-2DF1-4AA4-961C-B82C870157A9}
+	EndGlobalSection
+EndGlobal
